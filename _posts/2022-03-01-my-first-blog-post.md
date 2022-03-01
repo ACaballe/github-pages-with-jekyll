@@ -1,5 +1,5 @@
 ---
 title: "El título de tu post"
-date: YYYY-MM-DD
+date:AAAA-MM-DD
 ---
 borrador
